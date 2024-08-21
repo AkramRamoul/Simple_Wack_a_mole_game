@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.grid {
+  width: 738px;
+  display: grid;
+  padding-top: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0 auto;
+}
